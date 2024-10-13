@@ -54,4 +54,4 @@ for produto in dic_produtos:
     novo_preco = dic_produtos[produto] * 1.1
     dic_produtos[produto] = novo_preco
 
-print(dic_produtos)   
+print(dic_produtos)
