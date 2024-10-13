@@ -34,7 +34,7 @@ print(vendas[5])
 
 lista_produtos = ["iphone", "airpod", "ipad", "macbook"]
 
-# produto_procurtado = input("Pesquise pelo nome do produto: ")
+# produto_procurado = input("Pesquise pelo nome do produto: ")
 # produto_procurado = produto_procurado.lower()
 
 # print(produto_procurado in lista_produtos)
